@@ -1,4 +1,9 @@
 /*
+ * Copyright (c) 2026 赛博老爸
+ * English Study Game 非商业源码许可证 1.0：个人非商业使用、学习、非商业二次开发免费；禁止任何商业用途。
+ * 修改与分享须保留署名和许可证，衍生版本继续适用同一许可证；既有授权及第三方权利不受影响。
+ * 完整条款见随附 LICENSE 或 https://github.com/cyberdaddyleo/English-study-game/blob/main/LICENSE
+ *
  * 冰屋单词大作战 · AI 接口中转（Cloudflare Worker）
  * 用途：有的 AI 厂商不允许网页直接调用接口（跨域被拦），部署这个 Worker 后，
  *      在游戏「AI 设置」里把接口地址改成  https://你的worker域名/厂商名  即可。
